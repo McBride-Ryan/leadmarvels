@@ -1,7 +1,10 @@
 # Lead Marvels
 
 ### Description 
-Here is a completely revamped version of my landing page. I took the libery of include an additional "About" page. I was able to complete all CSS via class utility. 
+I scrapped my previous project. I started off by deleting the welcome.blade.php template Laravel provided and started everything from scratch. It took me some time and I hope that is alright. I started to get the hang of it so I added an additional page -- which is more similar to my prior project. I wanted to add some flow to the project. 
+
+### Additions
+Additions: I was able to include a sticky nav-bar that is functional. Plus a footer. An animation that guides the user. My css includes Tailwind.  No style tag in the header. I included a background image for the landing page. I was able to get the hover effect to work. I even included some shadows on the cards. 
 
 ### Usage
 Laravel/PHP/Node

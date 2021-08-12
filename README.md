@@ -1,5 +1,14 @@
 # Lead Marvels
 
+### Description 
+Here is a completely revamped version of my landing page. I took the libery of include an additional "About" page. I was able to complete all CSS via class utility. 
+
+### Usage
+Laravel/PHP/Node
+
+### Roadmap
+I was having some difficulty with the tailwind.config.js. I will add a hover feature over the buttons that allows me to change the color/scale and redirect. 
+
 ### Appearance 
 
 <img width="1397" alt="Screen Shot 2021-08-12 at 7 33 03 PM" src="https://user-images.githubusercontent.com/63865386/129283124-6d723cde-2eb5-46a2-a9ec-93b4a28444eb.png">
